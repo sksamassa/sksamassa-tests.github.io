@@ -1,0 +1,12 @@
+.center {
+    box-sizing: border-box;
+
+    /* Center the child component */
+    max-width: 720px;
+    margin: auto;
+    
+
+    background-color: #f1f1f1;
+    height: 100vh;
+    padding: 20px;
+}
