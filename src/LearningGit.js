@@ -1,9 +1,10 @@
 import './learningGit.css';
-
+import SearchBar from './SearchBar';
 
 export default function LearingGit() {
     return(
         <div className='learning'>
+            <SearchBar />
             <h1>Getting started with Git and Github</h1>
             <h3>Git and Github are two different things.</h3>
             <ul>

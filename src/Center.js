@@ -1,6 +1,7 @@
 import './center.css';
 
 
+
 export default function Center({children}) {
     return (
         <div className="center">
