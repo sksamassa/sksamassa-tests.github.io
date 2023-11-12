@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project is aiming to learning Git and Github through a simple react project.
+Git and Github are different things.
+Git is a version control system.
+Git is used for:
+  -  tracking changes in code.
+  -  tracking who made changes.
+  -  coding collaboration.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
