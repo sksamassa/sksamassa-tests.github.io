@@ -7,8 +7,9 @@
     transition: all 300ms ease;
 }
 
-.search input:hover {
-    border-color: #04AA6D;
+.search input:focus {
+    border: 3px solid #04AA6D;
+    outline: none;
  }
 
 .search {
