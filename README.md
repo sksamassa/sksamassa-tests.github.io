@@ -5,9 +5,9 @@ This project is aiming to learning Git and Github through a simple react project
 Git and Github are different things.
 Git is a version control system.
 Git is used for:
-  -  tracking changes in code.
-  -  tracking who made changes.
-  -  coding collaboration.
+   * tracking changes in code.
+   * tracking who made changes.
+   * coding collaboration.
 
   author: Sekou Samassa
   email: sksamassa
