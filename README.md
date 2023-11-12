@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+This project is aiming to learning Git and Github through a simple react project.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
